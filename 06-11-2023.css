@@ -1,0 +1,13 @@
+.class
+{
+    /* background color is blue */
+     background-color: blue;
+    /* background-color: rgba(200,120,130,0.3); */ 
+    /* background color is pink with 0.3 opacity */
+    /* background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fvignesh-bharathi-5a083518a&psig=AOvVaw2w2m40tOucvLX-rP36HpJR&ust=1699360426898000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKDykYexr4IDFQAAAAAdAAAAABAF'); */
+    width:400px;
+    height:500px;
+background-position:right;
+    
+    /* background-repeat:repeat-x; */
+}
